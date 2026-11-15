@@ -1,0 +1,65 @@
+"Table 9. Waste summary, by industry, 2016-17 to 2018-19",Units,2016-17,2017-18,2018-19
+"Expenditure on Waste Collection, Treatment and Disposal Services (pp) - Agriculture (a)",$m,508,494,507
+"Expenditure on Waste Collection, Treatment and Disposal Services (pp) - Mining",$m,274,276,326
+"Expenditure on Waste Collection, Treatment and Disposal Services (pp) - Manufacturing",$m,1085,1179,1205
+"Expenditure on Waste Collection, Treatment and Disposal Services (pp) - Electricity, gas, water & waste services",$m,1432,1614,1774
+"Expenditure on Waste Collection, Treatment and Disposal Services (pp) - Construction",$m,1489,1895,2009
+"Expenditure on Waste Collection, Treatment and Disposal Services (pp) - Public administration & safety",$m,264,302,314
+"Expenditure on Waste Collection, Treatment and Disposal Services (pp) - All other industries",$m,8280,9487,9487
+"Expenditure on Waste Collection, Treatment and Disposal Services (pp) - Households",$m,568,588,595
+Total waste generated - Agriculture (a),tonnes,868494.780549503,898509.320801841,917277.287419536
+Total waste generated - Mining,tonnes,1801206.47069186,2034426.67270586,2079320.45482885
+Total waste generated - Manufacturing,tonnes,11258828.093856,12528026.4658456,12794745.630356
+"Total waste generated - Electricity, gas, water & waste services",tonnes,11804524.1983766,12135075.6501863,12336525.2094632
+Total waste generated - Construction,tonnes,10429489.1632918,12409272.348106,12750165.1376447
+Total waste generated - Public administration & safety,tonnes,587058.497232195,607346.806719219,620033.00187599
+Total waste generated - All other industries,tonnes,18423082.9524665,19059771.1367054,19457889.5981982
+Total waste generated - Households,tonnes,11782678,12497951,12382418
+Price per tonne - Agriculture (a),$/tonne,584.920037951852,549.799527465278,552.72272294704
+Price per tonne - Mining,$/tonne,152.12026186801,135.664756908102,156.781990598382
+Price per tonne - Manufacturing,$/tonne,96.3688219551102,94.1089965936965,94.1792853732934
+"Price per tonne - Electricity, Gas, Water Supply, Waste Services",$/tonne,121.309421365491,133.002879135345,143.800622126495
+Price per tonne - Construction,$/tonne,142.768258031349,152.708389891148,157.566586652941
+Price per tonne - Public Administration and Safety,$/tonne,449.699648748261,497.244731772529,506.424656510141
+Price per tonne - Other industries,$/tonne,449.43617858983,497.749943163268,487.565722486086
+Price per tonne - Households,$/tonne,48.2063585205333,47.047712060961,48.0520040593041
+Gross Value Added - Agriculture (a),$m,47621,45418,40605
+Gross Value Added - Mining,$m,133589,151403,185754
+Gross Value Added - Manufacturing,$m,102191,106848,109979
+"Gross Value Added - Electricity, gas, water & waste services",$m,43823,46281,48797
+Gross Value Added - Construction,$m,133559,141667,146130
+Gross Value Added - Public administration & safety,$m,93157,95653,100905
+Gross Value Added - All other industries,$m,1089828,1138441,1187198
+Final consumption expenditure - Households,$m,1001197,1043583,1079503
+Waste industry contribution to GDP,%,0.3,0.3,0.3
+Waste Intensity - Agriculture (a),tonnes/$m,18.237642648191,19.7831106786261,22.5902545848919
+Waste Intensity - Mining,tonnes/$m,13.4831945047261,13.4371622273394,11.1939471280772
+Waste Intensity - Manufacturing,tonnes/$m,110.174360695717,117.250921550666,116.338079363843
+"Waste Intensity - Electricity, gas, water & waste services",tonnes/$m,269.368235820838,262.204266333621,252.813189529341
+Waste Intensity - Construction,tonnes/$m,78.0890030869639,87.5946575286126,87.2522078809599
+Waste Intensity - Public administration & safety,tonnes/$m,6.30181840583311,6.34947996110126,6.1447203000445
+Waste Intensity - All other industries,tonnes/$m,16.9045784770317,16.7419928979239,16.3897594151929
+Waste Intensity - Households,tonnes/$m,11.7685909965771,11.9760009505713,11.4704803969975
+Income generated from waste related exports,$m,4110.29176162,4347.00842106,4358.10597075
+Expenditure on waste related imports,$m,578.2214032,547.38865372,723.62479772
+Number of waste management businesess - Non Employing,No.,2151,2190,2318
+Number of waste management businesess - 1-19 Employees,No.,2117,2213,2299
+Number of waste management businesess - 20-199 Employees,No.,205,200,198
+Number of waste management businesess - 200+ Employees,No.,15,16,15
+Number of waste management businesess - Total,No.,4504,4614,4829
+Number of waste management businesess - Zero to less than $50k,No.,605,594,641
+Number of waste management businesess - $50k to less than $200k,No.,1401,1375,1479
+Number of waste management businesess - $200k to less than $2m,No.,1964,2100,2115
+Number of waste management businesess - $2m to less than $5m,No.,273,263,307
+Number of waste management businesess - $5m to less than $10m,No.,126,135,135
+Number of waste management businesess - $10m or more,No.,123,148,154
+Number of waste management businesess - Total,No.,4504,4614,4829
+Number of waste management businesess - NSW,No.,1416,1491,1563
+Number of waste management businesess - Vic,No.,1230,1271,1325
+Number of waste management businesess - Qld,No.,855,867,926
+Number of waste management businesess - SA,No.,347,358,364
+Number of waste management businesess - WA,No.,495,497,514
+Number of waste management businesess - Tas,No.,75,77,75
+Number of waste management businesess - NT,No.,29,33,25
+Number of waste management businesess - ACT,No.,35,39,32
+Number of waste management businesess - Total,No.,4504,4614,4829
